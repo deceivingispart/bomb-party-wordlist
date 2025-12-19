@@ -580,6 +580,7 @@ mala
 mama
 mare
 mata
+mato
 mawe
 meda
 meio
@@ -776,6 +777,7 @@ soma
 somo
 soro
 sova
+suco
 suga
 suma
 sumi
@@ -850,6 +852,7 @@ wifi
 xixi
 xota
 xote
+xuxa
 yard
 yoga
 zoar
@@ -1339,6 +1342,7 @@ lonas
 lorde
 louca
 louco
+luxar
 luzes
 lweis
 lykoi
@@ -1566,6 +1570,7 @@ qipao
 quase
 quati
 queer
+quepe
 quica
 quilo
 quina
@@ -2217,6 +2222,7 @@ incara
 infere
 inflar
 ingles
+inhame
 inseto
 instas
 inutil
@@ -2700,6 +2706,7 @@ baklava
 balizam
 balizar
 balizas
+bambole
 bandida
 bandido
 banhada
@@ -2884,6 +2891,7 @@ estrada
 estudai
 estudar
 estudos
+esvazia
 etileno
 etmoide
 eunucos
@@ -3229,6 +3237,7 @@ soprano
 soqueis
 sorrias
 sorriso
+soslaio
 spyware
 stalker
 suborno
@@ -3422,6 +3431,7 @@ azeiteis
 azevinho
 bacteria
 baklavas
+balizais
 balizara
 bancario
 barbadas
@@ -3622,6 +3632,7 @@ ficticio
 finaliza
 finca-pe
 fininhas
+fiquemos
 firmware
 fixardes
 fizestes
@@ -3678,6 +3689,7 @@ indigena
 indultam
 informar
 informas
+inquieto
 inscrito
 instante
 interior
@@ -3686,6 +3698,7 @@ inventar
 isopreno
 isqueiro
 italiano
+jacquard
 jadeitas
 jantados
 jantamos
@@ -3697,6 +3710,7 @@ juntemos
 jurarias
 kartings
 keeshond
+knockout
 know-how
 laconiza
 lascados
@@ -3835,6 +3849,7 @@ reinando
 reinarei
 remareis
 remoemos
+requerer
 resistir
 respeito
 resposta
@@ -3989,6 +4004,7 @@ amariamos
 ameixiais
 ameixoais
 amornadas
+amornares
 amplifica
 amplitude
 analogico
@@ -4197,6 +4213,7 @@ germanico
 germanios
 gigawatts
 globulina
+goticulas
 gozaremos
 granjeira
 gremistas
@@ -4404,6 +4421,7 @@ tibetanos
 tico-tico
 tiranicas
 toleravam
+tomahawks
 toneladas
 tormentos
 tourearem
@@ -4911,6 +4929,7 @@ consistires
 convenhamos
 convoquemos
 cooperativa
+coordenador
 cor-de-rosa
 coreografia
 coroassemos
@@ -5181,6 +5200,7 @@ azerbaidjana
 azerbaijanos
 bajulassemos
 balsamaramos
+balzaquianas
 banalizardes
 banqueteamos
 bolcheviques
@@ -5374,6 +5394,7 @@ atoleimaramos
 beijocariamos
 bloqueassemos
 bossa-novista
+buprenorfinas
 cantarolarias
 cardinalidade
 casamenteiros
@@ -5412,6 +5433,7 @@ esforriquemos
 esgazeassemos
 esmiucariamos
 especificaria
+espongiformes
 espreitaremos
 esquecimentos
 extrovertidos
@@ -5441,6 +5463,7 @@ locomoveremos
 mamas-cadelas
 mencionavamos
 metilxantinas
+mifepristonas
 mnemonizarias
 monocromatico
 morremorrendo
@@ -5454,6 +5477,7 @@ parlamentares
 perigosamente
 pestanejardes
 post-hardcore
+powerviolence
 pre-gravasses
 pre-pagasseis
 prednisolonas
@@ -5607,6 +5631,7 @@ espontaneamente
 esquistossomose
 estruturassemos
 etnomusicologas
+fisiopatologias
 franco-atirador
 galinha-dangola
 gramaticalmente
@@ -5701,6 +5726,7 @@ maometanizariamos
 marias-do-madeira
 mosquinhas-mortas
 pre-qualificasses
+pre-qualificastes
 redemocratizarias
 redirecionariamos
 sensibilizassemos
@@ -5827,6 +5853,7 @@ pluridimensionalidades
 veados-de-cauda-branca
 compartimentalizariamos
 dacriocistorrinostomias
+desconstitucionalizando
 desgovernamentalizardes
 desgovernamentalizareis
 desgovernamentalizarias
