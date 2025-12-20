@@ -1,5 +1,3 @@
-
-
 af
 ai
 ao
@@ -75,6 +73,7 @@ age
 ais
 aja
 ala
+ale
 ali
 ama
 ame
@@ -158,6 +157,7 @@ ide
 ies
 ima
 ion
+ipe
 ira
 iro
 lar
@@ -170,6 +170,7 @@ lhe
 lia
 los
 lua
+luz
 mal
 man
 mao
@@ -184,6 +185,7 @@ mio
 mis
 moa
 mod
+moe
 mor
 mos
 nao
@@ -191,6 +193,7 @@ nas
 nem
 nes
 nis
+nos
 nua
 oba
 oca
@@ -320,6 +323,7 @@ anca
 anda
 ande
 ando
+anil
 anis
 anjo
 anos
@@ -384,6 +388,7 @@ bola
 bolo
 bons
 bora
+bota
 boto
 breu
 broa
@@ -505,6 +510,7 @@ fifi
 figo
 fila
 file
+fina
 fino
 fins
 fios
@@ -514,6 +520,7 @@ fita
 fito
 fixa
 fixo
+flor
 foco
 fofa
 fofo
@@ -534,6 +541,7 @@ gamo
 gari
 gato
 gazo
+gear
 gelo
 gero
 gira
@@ -546,6 +554,7 @@ grao
 grau
 guis
 gula
+haja
 hajj
 hino
 homi
@@ -682,7 +691,9 @@ mito
 moca
 moda
 modo
+moer
 mofo
+mola
 mole
 momo
 mona
@@ -693,6 +704,7 @@ moto
 mova
 muco
 muda
+mude
 mudo
 mura
 naan
@@ -738,7 +750,9 @@ para
 pare
 pata
 pato
+peao
 peca
+peco
 pede
 pele
 pena
@@ -754,6 +768,7 @@ pica
 pico
 piei
 pier
+pife
 pila
 pino
 pion
@@ -845,6 +860,7 @@ saca
 saco
 safa
 sair
+sais
 sala
 sane
 sapo
@@ -865,6 +881,7 @@ silo
 sina
 sino
 siri
+soar
 soco
 sofa
 sois
@@ -874,6 +891,7 @@ somo
 sons
 soro
 sova
+suar
 suco
 suga
 suma
@@ -906,6 +924,7 @@ tive
 toca
 toco
 tola
+toma
 topo
 trap
 tras
@@ -940,6 +959,7 @@ veis
 veja
 vela
 veta
+viam
 vias
 vida
 vira
@@ -1016,6 +1036,7 @@ andar
 andes
 andou
 anglo
+angra
 animo
 anjos
 ansia
@@ -1026,8 +1047,10 @@ aonde
 apita
 apito
 apura
+arado
 arara
 arder
+arduo
 areia
 areja
 areje
@@ -1057,6 +1080,7 @@ atroz
 atual
 atuar
 autor
+aviao
 aviso
 azedo
 azoto
@@ -1079,6 +1103,7 @@ beijo
 belas
 benta
 beque
+berco
 besta
 bifes
 bilha
@@ -1092,11 +1117,13 @@ bolas
 bolei
 bolha
 bolos
+bolsa
 bomba
 borio
 borra
 borre
 bossa
+braco
 braga
 brama
 bramo
@@ -1219,6 +1246,7 @@ corpo
 corra
 corre
 corro
+corsa
 corvo
 cosmo
 cospe
@@ -1241,6 +1269,7 @@ cupim
 curas
 curry
 curso
+curve
 custo
 dadas
 dador
@@ -1248,6 +1277,7 @@ damos
 dando
 davas
 deixa
+deixo
 delas
 demos
 dente
@@ -1259,6 +1289,7 @@ desde
 dieta
 diodo
 diras
+disco
 disse
 dizer
 dizia
@@ -1290,6 +1321,7 @@ envia
 envio
 ereto
 ergue
+errei
 erros
 ervas
 escoo
@@ -1320,6 +1352,7 @@ faros
 farra
 farsa
 farto
+fatal
 fatia
 favor
 fazer
@@ -1337,6 +1370,7 @@ fieis
 fifia
 fifis
 filas
+filme
 final
 finas
 fines
@@ -1359,6 +1393,7 @@ fones
 fonte
 forca
 forja
+forma
 forme
 forte
 forum
@@ -1366,6 +1401,7 @@ fosco
 fossa
 fosse
 foste
+frase
 freia
 freio
 frevo
@@ -1388,6 +1424,7 @@ genio
 gente
 germe
 gesto
+gizes
 globo
 gnose
 gozam
@@ -1402,6 +1439,7 @@ graos
 grato
 grita
 grude
+guiar
 gulas
 guqin
 guria
@@ -1455,6 +1493,7 @@ jades
 janta
 jante
 janto
+japao
 jarda
 jarra
 jarro
@@ -1488,12 +1527,14 @@ largo
 larva
 latim
 latir
+lavar
 lavas
 lavei
 lebre
 legal
 leite
 lemas
+lemos
 lenda
 lenha
 lento
@@ -1551,6 +1592,7 @@ mango
 manha
 mania
 manje
+manjo
 mansa
 manta
 manto
@@ -1594,11 +1636,14 @@ miuda
 mixto
 modem
 molas
+molda
+molde
 monas
 monda
 monge
 morar
 morre
+morta
 morte
 morto
 mosca
@@ -1632,6 +1677,7 @@ nicho
 ninfa
 ninha
 ninho
+ninja
 niqab
 nisso
 nitro
@@ -1639,6 +1685,7 @@ nivel
 noite
 norte
 nossa
+nosso
 novas
 nuble
 nunca
@@ -1646,10 +1693,12 @@ nuvem
 oasis
 obito
 obtem
+obter
 oeste
 olhar
 olhas
 olhos
+ollie
 ombro
 omega
 oncas
@@ -1696,6 +1745,7 @@ pavor
 pedra
 peixe
 pelas
+pelos
 penca
 pendi
 penes
@@ -1737,6 +1787,7 @@ poder
 podes
 polen
 polvo
+pomba
 ponei
 ponta
 ponte
@@ -1794,6 +1845,7 @@ range
 ranho
 rapaz
 raras
+raspa
 ratas
 ratos
 razao
@@ -1815,6 +1867,8 @@ reset
 resta
 reste
 resto
+retro
+rever
 rezar
 ricos
 rifas
@@ -1833,6 +1887,7 @@ rojao
 rolas
 romas
 ronca
+ronda
 roque
 rosca
 rosto
@@ -1855,10 +1910,12 @@ salsa
 salta
 sanar
 santa
+santo
 sapos
 sarda
 sarna
 sarro
+schwa
 seara
 secas
 seios
@@ -1933,6 +1990,7 @@ teses
 testa
 teste
 testo
+tetas
 texto
 timao
 tinta
@@ -1996,6 +2054,7 @@ valha
 valor
 valsa
 vamos
+varas
 varia
 vasto
 veada
@@ -2007,6 +2066,7 @@ velha
 velho
 vemos
 venci
+vendo
 venho
 vente
 verao
@@ -2067,6 +2127,7 @@ abismo
 aboliu
 aborto
 abraco
+abutre
 acabar
 acamar
 acanho
@@ -2082,6 +2143,7 @@ acordo
 adegas
 adeque
 aderes
+aderir
 adicao
 adidas
 admita
@@ -2102,6 +2164,7 @@ agonia
 agudos
 aguias
 agulha
+ajudar
 ajuize
 alagar
 alaude
@@ -2144,15 +2207,19 @@ andeis
 angola
 anseio
 aperto
+apesar
 apitas
 aplico
 aprovo
 apuros
 aquele
+aranha
 ardido
 areias
 aresta
 argila
+argola
+ariano
 aridez
 arisco
 arriar
@@ -2160,6 +2227,7 @@ arrima
 arrota
 arruma
 artesa
+artigo
 arvore
 assado
 astral
@@ -2189,6 +2257,7 @@ barril
 bastas
 batida
 beleza
+bencao
 bermas
 bestas
 biblia
@@ -2282,6 +2351,7 @@ claras
 clarim
 climas
 climax
+coagir
 coccix
 coelho
 coesao
@@ -2344,6 +2414,7 @@ dilema
 direis
 discos
 disque
+doador
 dormes
 dorsal
 dramas
@@ -2387,20 +2458,24 @@ eolico
 equipa
 eramos
 erecao
+erguer
 errado
 esboco
 escada
 escola
 escoou
+escudo
 esfiha
 esfria
 esgana
+esgoto
 eslavo
 esmero
 esmola
 espaco
 espada
 espiao
+espiar
 espiga
 esposa
 estada
@@ -2415,6 +2490,7 @@ eterno
 etnias
 eunuco
 evasao
+exalar
 exatas
 exceto
 excuso
@@ -2452,6 +2528,7 @@ fisgar
 fisgas
 fisico
 fitado
+flecha
 fleuma
 flores
 fodias
@@ -2468,6 +2545,7 @@ fossem
 fossil
 franco
 frango
+franza
 freire
 frente
 fritar
@@ -2488,11 +2566,13 @@ geadas
 geiser
 geleia
 gentil
+gestos
 girafa
 gizara
 gongos
 googol
 gopnik
+gostar
 gostos
 gozada
 graais
@@ -2536,6 +2616,7 @@ imovel
 imutas
 incara
 incoou
+inepto
 infere
 inflar
 ingles
@@ -2558,6 +2639,7 @@ jarras
 jasmim
 javali
 jogado
+jornal
 juizas
 jureis
 justas
@@ -2590,6 +2672,7 @@ liamos
 limpos
 lindas
 linhas
+livros
 logins
 lolita
 louros
@@ -2652,6 +2735,8 @@ morada
 morara
 mortes
 moscar
+moscas
+mostro
 moteis
 mucosa
 mudeis
@@ -2665,11 +2750,13 @@ navios
 ndujas
 nectar
 nestes
+nhoque
 nicara
 ninhos
 ninjas
 niquel
 nomade
+nuance
 obtera
 ocioso
 odiosa
@@ -2694,8 +2781,10 @@ ossudo
 ostras
 otario
 otimos
+ourico
 output
 outrem
+ovulos
 pacote
 pactua
 pandas
@@ -2712,6 +2801,7 @@ passar
 passas
 pataxo
 patife
+pedaco
 pediam
 peguei
 peidar
@@ -2754,6 +2844,7 @@ posses
 postar
 poster
 pratos
+prenda
 prenha
 preppy
 pretas
@@ -2783,6 +2874,7 @@ quieto
 quilos
 quinas
 quinta
+quinto
 quinze
 quitar
 rachou
@@ -2820,6 +2912,7 @@ reparo
 reptil
 resido
 restos
+riamos
 riamos
 ricino
 rigido
@@ -2862,6 +2955,7 @@ sequer
 servos
 sestas
 sextas
+sexual
 sfenjs
 sibila
 silaba
@@ -2907,6 +3001,7 @@ tinham
 tirano
 tocada
 tomada
+tomate
 tonico
 toques
 toyger
@@ -2922,6 +3017,7 @@ trolls
 tucano
 tulipa
 tundra
+tutano
 ucuuba
 ulcera
 ultimo
@@ -2934,6 +3030,7 @@ varais
 vareis
 varios
 varras
+varrer
 varzea
 vazado
 vazias
@@ -2999,11 +3096,13 @@ acharia
 achavas
 acoplar
 acriano
+ademais
 aditivo
 adjunto
 adotada
 adutora
 afiados
+afirmar
 afobado
 afoitos
 agilize
@@ -3045,6 +3144,7 @@ ancorar
 ancoras
 andador
 andaime
+andando
 andaria
 angular
 angulos
@@ -3068,6 +3168,7 @@ arianas
 ariscas
 ariscos
 armarei
+armario
 arpemos
 arquivo
 arranha
@@ -3083,6 +3184,7 @@ artcore
 artesao
 asneira
 aspargo
+aspirar
 assalto
 assemos
 assiduo
@@ -3090,8 +3192,10 @@ assinar
 assinas
 atadura
 ateamos
+atencao
 atingir
 ativado
+austero
 autista
 avaliar
 avaliem
@@ -3156,12 +3260,14 @@ candido
 capinar
 capsula
 captura
+caralho
 carapau
 carcere
 carente
 carinho
 carioca
 casasse
+cascais
 catador
 catalao
 catando
@@ -3179,6 +3285,7 @@ chamada
 charuto
 chorosa
 chowder
+chupeta
 churros
 cianeto
 ciclope
@@ -3190,6 +3297,7 @@ ciscara
 clarita
 classes
 cocotas
+coentro
 coesoes
 cogitai
 cogitar
@@ -3242,6 +3350,7 @@ delicia
 demonio
 dengoso
 derruba
+descaso
 desenha
 desktop
 desliza
@@ -3269,6 +3378,7 @@ driblar
 ducteis
 duremos
 eclipse
+efemero
 efetuar
 egipcia
 egipcio
@@ -3288,8 +3398,10 @@ endeuse
 energia
 enfezas
 enfiado
+enganar
 enganes
 enganou
+engenho
 enquete
 ensaios
 ensinas
@@ -3314,7 +3426,9 @@ escravo
 escroto
 esfihas
 esforco
+esfrega
 esfriar
+esmagar
 esmalte
 esmiuca
 esmolas
@@ -3322,6 +3436,7 @@ espadas
 especie
 espelho
 espinha
+espinho
 espirro
 esporro
 esporte
@@ -3356,6 +3471,7 @@ extrato
 faccoes
 fademos
 falante
+falaria
 falidos
 familia
 famosos
@@ -3363,10 +3479,12 @@ fanfics
 faraday
 farejai
 farinha
+faturas
 favelas
 felinos
 felizes
 femboys
+feriado
 festeja
 festeje
 festejo
@@ -3465,10 +3583,12 @@ janelas
 jangada
 janteis
 japchae
+japones
 jaqueta
 javalis
 javardo
 jocosos
+joelhos
 jogarao
 jogaria
 jornada
@@ -3509,6 +3629,7 @@ liquido
 lirismo
 lixemos
 losango
+loucura
 lugares
 lutador
 luzimos
@@ -3538,6 +3659,7 @@ marujos
 marulha
 mastros
 matemos
+matizar
 meditai
 medleys
 megeras
@@ -3590,8 +3712,10 @@ negacao
 negaste
 nervuda
 ninarao
+ninguem
 ninhada
 nirvana
+nivelar
 numeros
 obedeca
 obedece
@@ -3606,6 +3730,7 @@ ofuscas
 omelete
 on-line
 orarmos
+orgasmo
 orgulho
 origami
 osculem
@@ -3678,6 +3803,7 @@ queijem
 queijos
 queijou
 queimam
+queimas
 queiras
 quentes
 queques
@@ -3728,6 +3854,7 @@ rigidez
 riremos
 risadas
 rispido
+rituais
 rodizio
 romanos
 ronrone
@@ -3737,6 +3864,7 @@ rustica
 rustico
 sacolas
 saisses
+salgado
 sangues
 saquear
 scanner
@@ -3751,12 +3879,14 @@ seppuku
 sequoia
 sereias
 sessoes
+shekels
 sibilas
 sifilis
 simples
 sistema
 smoking
 soberba
+sofista
 soprano
 soprara
 soqueis
@@ -3793,6 +3923,7 @@ tinindo
 tintina
 tio-avo
 tivemos
+tocante
 tomadas
 tonicos
 toscana
@@ -3907,6 +4038,7 @@ ajmalina
 ajoujada
 ajuizava
 ajuntava
+alcalino
 alcateia
 alcunhas
 alfabeto
@@ -3942,10 +4074,12 @@ aparelho
 apertado
 apilhado
 apologia
+apuramos
 aquifero
 arcarias
 ardencia
 arderdes
+ardiloso
 arenosos
 arenques
 armarias
@@ -3971,6 +4105,7 @@ atestado
 atinarei
 atirador
 ativemos
+ativismo
 atrevido
 autismos
 autopeca
@@ -4001,6 +4136,7 @@ beriberi
 bermudas
 besteira
 bilharda
+biprisma
 blefamos
 bloquear
 bloqueie
@@ -4074,9 +4210,11 @@ condicao
 conhaque
 conjurar
 contamos
+contente
 contexto
 continua
 contrais
+cooperar
 coquetel
 cordeais
 correndo
@@ -4121,6 +4259,7 @@ desjejum
 desktops
 deslizar
 desviado
+devolver
 diamante
 diazepam
 dinastia
@@ -4128,7 +4267,9 @@ dinheiro
 ditongas
 dormente
 doxxings
+drastico
 dublemos
+ecletico
 ecoarmos
 ecologia
 edificio
@@ -4149,6 +4290,7 @@ encorpem
 encrenca
 endereco
 enfiadas
+engraxar
 enlatado
 enquanto
 enroscas
@@ -4170,6 +4312,7 @@ equivoca
 errarmos
 esbarras
 escassez
+escolhas
 escoltar
 esconder
 escrever
@@ -4202,6 +4345,7 @@ exterior
 fadigada
 falacias
 falantes
+falarias
 falhemos
 familiar
 fanatico
@@ -4214,8 +4358,10 @@ fatidico
 fedelhos
 feijoada
 fermento
+ferreiro
 ferrovia
 festejar
+festejas
 ficardes
 ficassem
 ficticio
@@ -4252,6 +4398,7 @@ gatinhos
 gelatina
 gestacao
 giestais
+gigabyte
 ginasios
 goleemos
 gostasse
@@ -4324,6 +4471,7 @@ know-how
 laconiza
 lancemos
 lascados
+lastimar
 lastimas
 latencia
 lavaveis
@@ -4353,6 +4501,7 @@ mancando
 mandarao
 mandarei
 mandemos
+maneemos
 mangando
 mantemos
 manusear
@@ -4380,6 +4529,7 @@ mondemos
 monologo
 montanha
 moonwalk
+mordomia
 morramos
 mosquete
 mosquito
@@ -4388,6 +4538,7 @@ musculos
 namorada
 nauticos
 negardes
+negroide
 nekomimi
 neuroses
 nicotina
@@ -4448,6 +4599,7 @@ plasmara
 policiai
 poluicao
 porcaria
+portanto
 portaria
 posporia
 possamos
@@ -4525,6 +4677,7 @@ saloiice
 sanarmos
 sarianos
 sarilhas
+satelite
 saturado
 savannah
 scanners
@@ -4711,6 +4864,7 @@ amplitude
 analogico
 ancoremos
 andaremos
+andarilho
 angelical
 anoitecer
 ansiedade
@@ -4748,6 +4902,7 @@ autobomba
 avaliacao
 ave-maria
 aviadores
+azulzinha
 balalaica
 balizadas
 balizamos
@@ -4760,6 +4915,7 @@ becquerel
 bem-estar
 berinjela
 bilateral
+binoculos
 biografia
 blindados
 borrarias
@@ -4810,6 +4966,7 @@ cogumelos
 coiceemos
 colocamos
 compactos
+compactuo
 compassos
 conclaves
 concursar
@@ -4850,6 +5007,7 @@ desculpas
 desdenhar
 desertico
 desfeitas
+deslanche
 deslavava
 despiroca
 desrelves
@@ -4926,6 +5084,8 @@ estrutura
 estudamos
 evidencia
 ex-ex-gay
+ex-marido
+exposicao
 extrafina
 falaramos
 fanaticos
@@ -5054,9 +5214,11 @@ metastase
 metilenos
 mexeremos
 miariamos
+microfone
 mictorios
 mijaramos
 miniatura
+minusculo
 miraculei
 mitigando
 mitologia
@@ -5151,6 +5313,7 @@ reagrupes
 realistas
 rebeldias
 recebidos
+recuperar
 recusadas
 reexistir
 referente
@@ -5194,6 +5357,7 @@ spaetzles
 stand-bys
 standards
 suassemos
+suasticas
 submergir
 subscrito
 suburbano
@@ -5201,6 +5365,7 @@ suspeitos
 sustareis
 synthwave
 talmudica
+tangerina
 tankoubon
 tarantula
 tararamos
@@ -5208,6 +5373,7 @@ tartaruga
 taxaramos
 teimosice
 telefonai
+telepatia
 thesaurus
 ti-ti-tis
 tibetanos
@@ -5261,6 +5427,7 @@ ab-rogares
 ab-rogaria
 ab-rogasse
 abalizamos
+abatatados
 abespinhas
 abrangente
 acolherdes
@@ -5291,6 +5458,7 @@ andassemos
 andorinhas
 angariamos
 ansiarieis
+antebracos
 anti-heroi
 anticarros
 anticristo
@@ -5309,6 +5477,7 @@ arcebispos
 armamentos
 arqueardes
 arquearmos
+arrogancia
 arrombarei
 arte-maior
 ascendente
@@ -5317,6 +5486,7 @@ assinarias
 assinatura
 assobiamos
 asteriscos
+astrologia
 astronomia
 austriacos
 automatica
@@ -5331,6 +5501,7 @@ barafustes
 batalhamos
 bateriamos
 batimentos
+bebedouros
 beija-flor
 bel-prazer
 bifonazois
@@ -5357,6 +5528,7 @@ carenagens
 carunchara
 casariamos
 cavariamos
+chachachas
 chimarroes
 chocolates
 cobicarmos
@@ -5371,6 +5543,7 @@ conceituar
 confessada
 conglobada
 conhecendo
+consoantes
 constateis
 contextual
 contramuro
@@ -5423,6 +5596,7 @@ eletronico
 emergencia
 emocionada
 empregamos
+emulsifica
 endividado
 endocrinas
 energetico
@@ -5449,6 +5623,7 @@ esmolarias
 espanholas
 esparzidos
 estilizado
+estrategia
 estudarmos
 etimologia
 europeizar
@@ -5501,6 +5676,7 @@ halloysita
 halogenios
 hasteardes
 headhunter
+hemorroida
 henriquino
 hertzianos
 hesitarmos
@@ -5511,6 +5687,7 @@ ibuprofeno
 idealismos
 identidade
 imitaremos
+improvisar
 inadequado
 incansavel
 infinidade
@@ -5547,6 +5724,7 @@ literatura
 lixiviemos
 logaritmos
 logisticas
+lubrificar
 lutariamos
 lutassemos
 maasdammen
@@ -5597,6 +5775,7 @@ olimpiadas
 ondulacoes
 opositores
 ordinarios
+organismos
 ornamental
 palmatoria
 palmilhara
@@ -5638,6 +5817,7 @@ primordial
 purpurinas
 qualidades
 quantidade
+quarteirao
 quartzitos
 queijardes
 queijarias
@@ -5708,6 +5888,7 @@ tico-ticos
 tirariamos
 tivessemos
 tlintarias
+torturamos
 tosariamos
 tratamento
 treparemos
@@ -5827,6 +6008,7 @@ bolsominion
 borralheiro
 bosquejamos
 bosquejaras
+bosquejares
 brasileiros
 brasonasses
 bruxuleemos
@@ -5850,6 +6032,7 @@ comparecido
 condecorara
 confortador
 consistires
+contentamos
 convenhamos
 convoquemos
 cooperativa
@@ -5921,11 +6104,14 @@ estagflacao
 estercareis
 estereotipo
 estoicismos
+estradarias
 estrangeiro
 estrogenios
 esventraras
 esvoacaveis
+exaltavamos
 excelencias
+experiencia
 falhariamos
 fanfariamos
 fatiariamos
@@ -5967,6 +6153,7 @@ hospitalize
 ignoravamos
 igualitario
 ilibariamos
+importancia
 inalassemos
 indianistas
 indo-chines
@@ -6058,6 +6245,7 @@ queijaremos
 queijasseis
 queimavamos
 quinariamos
+quisessemos
 quotizarias
 ramificados
 ramificaste
@@ -6173,6 +6361,7 @@ apostariamos
 aqui-del-rei
 araras-azuis
 ardentemente
+aromatizante
 arquiteturas
 arrombadores
 arrotassemos
@@ -6225,6 +6414,7 @@ corroboremos
 decomposicao
 deduzissemos
 depauperavas
+desacreditar
 desaguaramos
 desalfandega
 desalojasses
@@ -6281,11 +6471,13 @@ gesticularao
 gralhariamos
 greco-romano
 hasteassemos
+hemoglobinas
 historiarmos
 iconoclastas
 iconoclastia
 identificado
 ilicitamente
+impressionou
 indiferentes
 inextirpavel
 infelizmente
@@ -6331,6 +6523,7 @@ narcotrafico
 neodadaismos
 neodadaistas
 neokantismos
+nicotizarmos
 nomenclatura
 observadores
 oligarquicas
@@ -6469,10 +6662,12 @@ difeomorfismo
 dismorfofobas
 duplicassemos
 efeminassemos
+embriagavamos
 enchouricasse
 enchusmaramos
 enciclopedias
 enclaustravam
+encontravamos
 encrencarieis
 endireitasses
 entulhariamos
@@ -6497,6 +6692,7 @@ flamenguistas
 foreshadowing
 gastronomicas
 gatos-do-mato
+ginecologista
 granulariamos
 grao-vizirato
 heterozigotos
@@ -6573,6 +6769,7 @@ tremeluzirias
 tresandaremos
 walkie-talkie
 webjornalismo
+abrilhantarmos
 aljubarrotense
 amanheceriamos
 amplificavamos
@@ -6588,6 +6785,7 @@ assassinavamos
 assocializadas
 atenciosamente
 austro-hungaro
+avacalhariamos
 bem-mereciamos
 bilateralmente
 bioequivalente
@@ -6635,6 +6833,7 @@ forrageariamos
 galaktoboureko
 galinha-d'agua
 gesellschaften
+harmonizavamos
 hiperglicemica
 historicamente
 hjelmslevianas
@@ -6684,17 +6883,20 @@ ramificariamos
 reconhecimento
 redemocratizas
 regionalizarao
+regozijariamos
 requisitavamos
 sarapintaramos
 semideserticos
 sobressaltaras
 superabundarao
 tartamudearmos
+trigonometrias
 valorizariamos
 vascolejaramos
 vassourassemos
 webjornalismos
 academicizardes
+achincalharamos
 alcalinoterroso
 alfarrobariamos
 amadrinhariamos
@@ -6722,6 +6924,7 @@ despenalizariam
 desproporcional
 desregulamentem
 desregulariamos
+distinguissemos
 efemerizassemos
 eletrolisasseis
 enclausuraramos
@@ -6732,6 +6935,7 @@ espontaneamente
 esquistossomose
 estruturassemos
 etnomusicologas
+filosoficamente
 fisiopatologias
 franco-atirador
 galinha-dangola
@@ -6775,6 +6979,7 @@ zooarqueologias
 abrasileiravamos
 amulherengavamos
 andorinha-do-mar
+antagonizariamos
 anti-hemorroidal
 antropocentrismo
 arco-irisariamos
@@ -6837,6 +7042,7 @@ contra-atacaremos
 contra-atacavamos
 contraespionagens
 corporalizariamos
+cumprimentassemos
 desalfandegaramos
 desapoquentarieis
 despronunciavamos
@@ -6864,6 +7070,7 @@ tiquetaqueariamos
 trinta-reis-anoes
 aranhas-armadeiras
 arara-azul-de-lear
+contemporaneidades
 contextualizavamos
 contra-argumentara
 dactilografassemos
