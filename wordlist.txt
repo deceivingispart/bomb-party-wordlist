@@ -104,6 +104,7 @@ bis
 bit
 boa
 boi
+bom
 bro
 bum
 cai
@@ -479,6 +480,7 @@ clas
 coar
 coas
 coco
+coei
 coes
 cola
 cole
@@ -488,6 +490,7 @@ come
 comi
 cone
 copa
+cose
 coso
 cota
 coto
@@ -1044,6 +1047,7 @@ tupi
 uber
 unha
 upar
+urja
 urna
 urra
 urro
@@ -1850,6 +1854,7 @@ migar
 mijas
 mijei
 milfs
+milho
 minas
 minha
 minta
@@ -1939,6 +1944,7 @@ oncas
 ondas
 ontem
 opcao
+optar
 orado
 orais
 ordem
@@ -2160,6 +2166,7 @@ rugir
 ruias
 ruido
 ruins
+rural
 saber
 sabia
 sacos
@@ -2436,6 +2443,7 @@ acidez
 acidos
 acolhi
 acordo
+acuava
 adegas
 adeque
 aderes
@@ -2704,6 +2712,7 @@ climas
 climax
 clonar
 coagir
+coamos
 coccix
 coelho
 coesao
@@ -2772,6 +2781,7 @@ descer
 desceu
 desdem
 desejo
+desfia
 destes
 destro
 diccao
@@ -3301,6 +3311,7 @@ prisao
 pronta
 pronto
 pseudo
+pulmao
 quando
 quanta
 quanto
@@ -3444,6 +3455,7 @@ sondas
 sonhas
 sonhos
 sorrir
+sovino
 squash
 staffs
 stands
@@ -3457,6 +3469,7 @@ sujado
 sultao
 surdas
 surdos
+surgir
 suruba
 tabaco
 tabela
@@ -3506,6 +3519,7 @@ trinta
 tripas
 trolls
 troque
+trouxa
 trovao
 tucano
 tulipa
@@ -3872,6 +3886,7 @@ cornear
 cosseno
 costela
 cotarao
+couraca
 covinha
 coxeeis
 cozidos
@@ -4050,6 +4065,7 @@ eunucos
 europeu
 evoluir
 existir
+exordio
 explica
 expulsa
 expulso
@@ -4097,6 +4113,7 @@ fluvial
 fodidas
 forints
 franjar
+franzis
 frentes
 friezas
 fuleiro
@@ -4881,6 +4898,7 @@ cadencia
 cairemos
 calcinha
 calculos
+califado
 camgirls
 campinas
 canoeiro
@@ -4962,6 +4980,7 @@ cravando
 crendice
 criancas
 crioulos
+criptica
 cromicas
 crossfit
 culpados
@@ -5009,6 +5028,7 @@ ditongas
 dormente
 dosagens
 doxxings
+dragamos
 drastico
 dublemos
 ecletico
@@ -5095,6 +5115,7 @@ etiqueta
 evidente
 execrada
 exilados
+expansao
 expirado
 exterior
 extracao
@@ -5426,6 +5447,7 @@ possamos
 pre-pago
 precioso
 presente
+presunto
 pretinho
 primazia
 proibido
@@ -5663,6 +5685,7 @@ whiskies
 wiccanos
 wireless
 xaropada
+xaropado
 xerocara
 yakisoba
 yakitori
@@ -5860,6 +5883,7 @@ coerentes
 cogitadas
 cogumelos
 coiceemos
+colagenos
 colocamos
 combustao
 compactos
@@ -6011,6 +6035,7 @@ estudamos
 evidencia
 ex-ex-gay
 ex-marido
+exorbitar
 exposicao
 extrafina
 falaramos
@@ -6098,6 +6123,7 @@ indexaste
 infeccoes
 inferniza
 iniciarao
+inscricao
 inspirado
 insulinas
 intrigava
@@ -6276,6 +6302,7 @@ queijares
 queijaria
 queijasse
 queijavas
+queimadas
 queimamos
 queiramos
 querermos
@@ -6428,6 +6455,7 @@ workshops
 xixizinho
 yorkshire
 zapeassem
+zeladores
 zifiideos
 ab-rogacao
 ab-rogados
@@ -6509,6 +6537,7 @@ arrombarei
 arte-maior
 artimanhas
 ascendente
+asfixiados
 aspergieis
 assassinas
 assassinos
@@ -6609,6 +6638,7 @@ dedilhando
 defequemos
 deficiente
 deflorando
+deixavamos
 depoimento
 depressivo
 desalmadas
@@ -6618,6 +6648,7 @@ desgoverno
 desgracado
 deslavavas
 deslizadas
+desmiolado
 desnublado
 despirocar
 despotismo
@@ -6977,8 +7008,10 @@ socassemos
 srilanques
 stalkearem
 sub-rogara
+subdividir
 subjugamos
 sublevemos
+subnutrida
 subpuseras
 subversoes
 sulfatarei
@@ -7161,6 +7194,7 @@ chuchuzeiro
 cibernetico
 cimentarias
 clarimostro
+cogitavamos
 coitadinhas
 come-e-cala
 comparecido
@@ -8261,6 +8295,7 @@ jooes-corta-pau
 lamelibranquios
 lantejoularamos
 meticulosamente
+microcomputador
 mnemonizariamos
 monossilabismos
 morremorreremos
