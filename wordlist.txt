@@ -790,6 +790,7 @@ mude
 mudo
 mula
 mura
+muta
 naan
 nada
 nana
@@ -828,6 +829,7 @@ orna
 osso
 ouca
 ouro
+ousa
 ovni
 ovos
 pago
@@ -1385,6 +1387,7 @@ ciros
 cisma
 cisto
 citar
+civis
 clara
 claro
 clona
@@ -1918,6 +1921,7 @@ mundo
 mural
 musgo
 mutes
+mutua
 nabla
 nanar
 nanas
@@ -2447,6 +2451,7 @@ zerei
 zinco
 zoava
 abafai
+abalai
 abanar
 abanei
 abelha
@@ -2921,6 +2926,7 @@ faccao
 faceis
 fadado
 faisao
+faisca
 fajita
 falhar
 falhes
@@ -3006,6 +3012,7 @@ gentil
 gestos
 girafa
 gizara
+gluglu
 gongos
 googol
 gopnik
@@ -3035,6 +3042,7 @@ henrys
 hentai
 herege
 hernia
+herpes
 hetero
 hienas
 hifens
@@ -3053,6 +3061,7 @@ ilibas
 iludes
 iludia
 iludir
+imigra
 imitar
 imitas
 imoral
@@ -3106,6 +3115,7 @@ krills
 ladrao
 lamber
 lambia
+lapada
 larica
 latido
 laudos
@@ -3457,6 +3467,7 @@ schwas
 script
 seboso
 seguem
+segura
 semear
 semens
 semita
@@ -3640,6 +3651,7 @@ abre-cu
 abrigas
 acamado
 acaraje
+acentue
 acesses
 acetona
 achadas
@@ -3851,6 +3863,7 @@ capsula
 captura
 caralho
 carapau
+carbono
 carcere
 carente
 carinho
@@ -4227,6 +4240,7 @@ inercia
 infeliz
 inferir
 inferno
+inflado
 infusao
 inglesa
 inicial
@@ -4287,6 +4301,7 @@ lasquei
 lastima
 lavabos
 lavemos
+laxante
 leciona
 lecione
 lemures
@@ -4377,6 +4392,7 @@ mobilia
 mocetao
 mocinha
 modinha
+modulos
 mofados
 momento
 monarca
@@ -4389,6 +4405,7 @@ mosquei
 mostrar
 movidos
 moyashi
+mudanca
 mundial
 muralha
 mutados
@@ -4458,6 +4475,7 @@ patifes
 pavlova
 pecador
 peixoes
+pelejar
 pelejas
 pendula
 pendulo
@@ -4594,6 +4612,7 @@ scanner
 seccoes
 secreto
 secular
+seducao
 segunda
 segundo
 sejamos
@@ -4753,6 +4772,7 @@ ab-rogas
 abolimos
 abre-cus
 abrochas
+absorver
 abstrato
 acamamos
 acanhado
@@ -4951,6 +4971,7 @@ cantamos
 cantigas
 capadura
 capitulo
+capturar
 caralhas
 caraoque
 cardeais
@@ -4979,6 +5000,7 @@ chaparem
 chateado
 chaveeis
 check-in
+chinfrim
 chuparao
 chuteira
 cidadela
@@ -5040,6 +5062,7 @@ decatlos
 defender
 defensei
 defletir
+degolado
 degustar
 deitadas
 delicias
@@ -5771,6 +5794,7 @@ afinidade
 afoguemos
 agilmente
 agredidos
+agressivo
 agronomia
 ajuizadas
 ajuizemos
@@ -5879,6 +5903,7 @@ binoculos
 biografia
 bisnagada
 bissexual
+blasfemia
 blindados
 borrarias
 bosquejam
@@ -6332,6 +6357,7 @@ piruetara
 piscadela
 policarpo
 portarias
+portuario
 post-rock
 pousastes
 pre-datam
@@ -7116,6 +7142,7 @@ vascolejas
 verossimil
 vestimenta
 viajaramos
+viveriamos
 wagneriano
 watts-hora
 wolframita
@@ -7227,6 +7254,7 @@ beijoqueira
 belzebutica
 beneplacito
 benfeitores
+bibliofobia
 bipartistes
 bolchevique
 bolsominion
@@ -7575,6 +7603,7 @@ ties-sangue
 tilambucano
 tlintaramos
 torrearieis
+toxicologia
 tracionadas
 traficantes
 tragassemos
@@ -7736,6 +7765,7 @@ enciclopedia
 encimariamos
 endeusaremos
 enfatizarias
+enfrentarmos
 engravatadas
 engraxavamos
 enlambuzamos
