@@ -1,3 +1,4 @@
+
 af
 ah
 ai
@@ -281,6 +282,7 @@ tar
 tas
 tem
 ter
+teu
 tia
 til
 tis
@@ -375,6 +377,7 @@ aras
 arca
 arco
 arde
+ardo
 ares
 aria
 arma
@@ -415,6 +418,7 @@ bare
 base
 bate
 bebe
+beca
 beck
 bela
 bens
@@ -490,6 +494,7 @@ come
 comi
 cone
 copa
+copo
 cose
 coso
 cota
@@ -527,6 +532,7 @@ dois
 dose
 duas
 duro
+duto
 ecoa
 ecos
 ecra
@@ -622,6 +628,7 @@ homi
 homo
 hora
 huno
+iate
 icar
 ieis
 igbo
@@ -677,6 +684,7 @@ lapa
 lata
 lava
 leal
+lede
 leia
 leis
 lema
@@ -818,6 +826,7 @@ orem
 orla
 orna
 osso
+ouca
 ouro
 ovni
 ovos
@@ -985,6 +994,7 @@ silo
 sina
 sino
 siri
+slot
 soar
 soco
 sofa
@@ -997,6 +1007,7 @@ soro
 sova
 spas
 suar
+suba
 suco
 suga
 sujo
@@ -1008,6 +1019,8 @@ tais
 tato
 tatu
 taxa
+taxi
+taxo
 tear
 tece
 teia
@@ -1085,6 +1098,7 @@ vivo
 vixe
 voar
 voem
+voes
 volt
 wads
 watt
@@ -1094,6 +1108,7 @@ xixi
 xota
 xote
 xuxa
+yang
 yard
 yiff
 yoga
@@ -1136,6 +1151,7 @@ agros
 agudo
 aguem
 ahoge
+ainda
 ajuda
 alado
 alaga
@@ -1217,6 +1233,7 @@ atras
 atroz
 atual
 atuar
+audio
 autor
 aviao
 aviso
@@ -1547,6 +1564,7 @@ fervo
 festa
 fetos
 fezes
+fibra
 ficam
 fieis
 fifia
@@ -1568,6 +1586,7 @@ fixar
 fixei
 fixos
 flora
+fluir
 fobia
 focar
 foice
@@ -1621,6 +1640,7 @@ gesto
 gizes
 globo
 gnose
+gorro
 gosto
 gozam
 gozar
@@ -1737,6 +1757,7 @@ larva
 lasso
 latim
 latir
+laudo
 lavar
 lavas
 lavei
@@ -1805,6 +1826,7 @@ major
 malas
 malha
 malte
+mamae
 mamar
 mamas
 manar
@@ -1815,6 +1837,7 @@ manga
 mango
 manha
 mania
+manja
 manje
 manjo
 mansa
@@ -2026,10 +2049,12 @@ pisar
 pisas
 pisca
 pista
+pixel
 pizas
 pizza
 placa
 plano
+plexo
 plote
 podai
 podar
@@ -2123,6 +2148,7 @@ reina
 reine
 reino
 relar
+reler
 relva
 remar
 remoe
@@ -2599,6 +2625,7 @@ bencao
 bermas
 berras
 bestas
+bexiga
 biblia
 biceps
 bienal
@@ -2686,6 +2713,7 @@ celula
 centro
 cernis
 cetico
+chance
 cheios
 chiado
 chichi
@@ -2706,6 +2734,7 @@ cilada
 cilios
 cintas
 ciscas
+ciumes
 claras
 clarim
 climas
@@ -2713,6 +2742,7 @@ climax
 clonar
 coagir
 coamos
+coando
 coccix
 coelho
 coesao
@@ -2836,6 +2866,7 @@ enviei
 envios
 enviou
 enxada
+enzima
 eolico
 equipa
 eramos
@@ -2883,6 +2914,7 @@ exalar
 exatas
 exceto
 excuso
+eximio
 exumas
 facamo
 faccao
@@ -2926,6 +2958,7 @@ fisgas
 fisico
 fitado
 fitara
+fivela
 flecha
 fleuma
 flores
@@ -3227,6 +3260,7 @@ ousado
 output
 outrem
 ovulos
+oxente
 pacote
 pactua
 palpar
@@ -3381,6 +3415,7 @@ reparo
 reptil
 resido
 restos
+retido
 riamos
 riamos
 ricino
@@ -3625,6 +3660,7 @@ adutora
 afeicao
 afiados
 afirmar
+aflicao
 afobado
 afoitos
 agilize
@@ -3688,6 +3724,7 @@ apertar
 aplique
 apostas
 apureis
+aquecer
 aquelas
 arbitro
 arbusto
@@ -3999,6 +4036,7 @@ epilogo
 eremita
 ermitao
 erroneo
+erudito
 ervilha
 esbocai
 esbocar
@@ -4199,6 +4237,7 @@ insidio
 instara
 instiga
 integra
+inundar
 invadir
 invento
 inverso
@@ -4272,6 +4311,7 @@ loucura
 lugares
 lutador
 lutando
+luxuria
 luzimos
 maasdam
 macacos
@@ -4441,6 +4481,7 @@ pistola
 plantas
 platina
 plotter
+pocilga
 podrees
 polacos
 polenta
@@ -4538,6 +4579,7 @@ romanos
 ronrone
 roteiro
 rubrico
+rugidos
 rumores
 rustica
 rustico
@@ -4588,6 +4630,7 @@ stalker
 suborno
 subtema
 suicido
+sujeira
 sulista
 superar
 supinos
@@ -4599,9 +4642,11 @@ tamanho
 taradas
 tarifas
 tartaro
+taurina
 taverna
 tavolas
 tecidos
+tedioso
 tenente
 teologo
 tequila
@@ -5017,6 +5062,7 @@ desjejum
 desktops
 desligar
 deslizar
+deslocar
 desviado
 devolver
 diamante
@@ -5205,6 +5251,7 @@ gurizada
 habitats
 haitiana
 haitiano
+handebol
 hardcore
 hardware
 harmonia
@@ -5321,6 +5368,7 @@ mariachi
 marqueis
 matrizes
 meandros
+mecanico
 medieval
 mediocre
 membrana
@@ -5431,6 +5479,7 @@ pirarucu
 pirozhki
 pirozhok
 piruvato
+piscadas
 pistolas
 planalto
 planejar
@@ -5819,6 +5868,7 @@ banhareis
 baritonos
 barrigada
 bastardos
+bebedeira
 beberemos
 becquerel
 bem-estar
@@ -5990,6 +6040,7 @@ endurecer
 enfadonha
 enfaixada
 engracado
+enjoativo
 enraizado
 entalpica
 entidades
@@ -6107,6 +6158,7 @@ holandiza
 homunculo
 hortalica
 hoteleiro
+humildade
 icosaedro
 idahoanos
 ideologia
@@ -6331,6 +6383,7 @@ refizemos
 reflexoes
 refrescos
 regadores
+regozijar
 relevaste
 rendesses
 renegadas
@@ -6339,6 +6392,7 @@ repositor
 reputacao
 residente
 retificar
+rezadeira
 ribossomo
 roguelike
 romantico
@@ -6517,6 +6571,7 @@ anus-preto
 apaixonado
 apalmarmos
 apalparmos
+apavorante
 apetitando
 apetrechos
 apitarieis
@@ -6732,6 +6787,7 @@ fantastico
 fast-foods
 fechavamos
 fecundacao
+federativo
 felicidade
 felizardas
 felizardos
@@ -6746,6 +6802,7 @@ fincaramos
 fitariamos
 fizessemos
 flacidezes
+fleumatica
 formigaras
 fossilizei
 fotografia
@@ -6759,6 +6816,7 @@ fuzilarias
 galinheiro
 garrafadas
 gauchardes
+geladeiras
 geociclico
 geoquimica
 germanicas
@@ -6772,6 +6830,7 @@ grao-duque
 grao-vizir
 gregoriano
 grudavamos
+guerreemos
 guilhotina
 habilidade
 habilidoso
@@ -7221,6 +7280,7 @@ darwinianos
 darwinismos
 defendermos
 deficiencia
+deformidade
 demeritorio
 depauperado
 depoimentos
@@ -7387,6 +7447,7 @@ militaremos
 mnemonizava
 monologamos
 monologaram
+morreriamos
 mosca-morta
 mulherengos
 murucututus
@@ -7610,6 +7671,7 @@ bem-diziamos
 bem-fizermos
 bolcheviques
 bolchevismos
+bosquejardes
 bosquejareis
 bosquejariam
 bosquejastes
@@ -7675,6 +7737,7 @@ encimariamos
 endeusaremos
 enfatizarias
 engravatadas
+engraxavamos
 enlambuzamos
 enlouquecais
 enquistariam
@@ -7913,6 +7976,7 @@ blasfemaremos
 bloqueassemos
 bossa-novista
 buprenorfinas
+cabozantinibe
 calculariamos
 cambalhotados
 canalizaramos
@@ -8218,6 +8282,7 @@ regionalizarao
 regozijariamos
 representantes
 requisitavamos
+resplandecente
 revivifiquemos
 romantizaramos
 sarapintaramos
