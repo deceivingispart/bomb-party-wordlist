@@ -1,5 +1,3 @@
-
-
 af
 ah
 ai
@@ -98,6 +96,7 @@ ati
 ato
 ava
 ave
+azo
 bao
 bar
 bem
@@ -268,6 +267,7 @@ sei
 sem
 ser
 ses
+sho
 sim
 soa
 sob
@@ -307,6 +307,7 @@ vos
 vou
 voz
 wad
+xua
 yao
 yin
 zas
@@ -469,6 +470,7 @@ ceia
 cepa
 cepo
 cera
+chao
 chas
 chia
 cipo
@@ -876,6 +878,7 @@ polo
 popo
 pora
 posa
+pose
 post
 pote
 povo
@@ -1009,6 +1012,7 @@ tela
 teme
 teor
 tese
+teta
 tete
 teto
 teve
@@ -1105,6 +1109,7 @@ achei
 acida
 acido
 acoes
+acudo
 adeus
 adiar
 adora
@@ -1447,6 +1452,7 @@ desde
 deste
 dieta
 diodo
+dique
 diras
 disco
 disse
@@ -1547,6 +1553,7 @@ final
 finas
 fines
 finja
+fique
 firme
 firmo
 fisga
@@ -1610,6 +1617,7 @@ gesto
 gizes
 globo
 gnose
+gosto
 gozam
 gozar
 gozas
@@ -2355,6 +2363,7 @@ vesgo
 vespa
 veste
 vesti
+vetar
 vezes
 viado
 vicia
@@ -2447,7 +2456,9 @@ afinco
 aflito
 afoito
 afunda
+agacha
 agiota
+agitar
 agonia
 aguava
 agudos
@@ -2510,6 +2521,7 @@ apesar
 apitas
 apitos
 aplico
+apoiar
 aprovo
 apuros
 aquele
@@ -2596,6 +2608,7 @@ boreal
 bosque
 bostas
 botado
+boxear
 brahma
 brames
 branco
@@ -2608,6 +2621,7 @@ bueiro
 bumbum
 bundts
 burros
+butano
 buzina
 bypass
 cabeca
@@ -2980,6 +2994,7 @@ herege
 hernia
 hetero
 hienas
+hifens
 hitita
 horror
 hortas
@@ -3028,6 +3043,7 @@ jasmim
 javali
 jogado
 jornal
+joules
 juizas
 jurara
 jureis
@@ -3263,6 +3279,7 @@ piseis
 pitada
 pivete
 plasma
+pleito
 plotar
 plural
 polaco
@@ -3304,6 +3321,7 @@ querei
 querer
 queres
 queria
+quiabo
 quicar
 quieto
 quilos
@@ -3464,6 +3482,7 @@ tinham
 tirano
 titica
 tlinta
+toalha
 tocada
 tomada
 tomate
@@ -3555,6 +3574,7 @@ xaxado
 xereca
 xicara
 xiitas
+xingar
 yakuza
 yuppie
 zaatar
@@ -3562,6 +3582,7 @@ zangao
 zarpar
 zarpas
 zebras
+zigoto
 zurzir
 ab-rogo
 abaliza
@@ -3612,6 +3633,7 @@ alemaes
 aliados
 alianca
 alinhar
+almejar
 alterar
 aluaras
 amardes
@@ -3823,6 +3845,7 @@ coentro
 coesoes
 cogitai
 cogitar
+colonia
 colunas
 comidas
 compara
@@ -3839,6 +3862,7 @@ conosco
 consigo
 contudo
 convido
+convies
 coopero
 corando
 corante
@@ -3861,6 +3885,7 @@ cubanas
 cubismo
 cuidado
 culmina
+cumprir
 cunhado
 cupuacu
 curacao
@@ -3875,6 +3900,7 @@ defende
 defendo
 definas
 deflaga
+degrada
 deidade
 deja-vu
 delegas
@@ -4044,6 +4070,7 @@ faringe
 farinha
 faturas
 favelas
+fecunda
 felinos
 felizes
 femboys
@@ -4065,6 +4092,7 @@ fiu-fiu
 fixamos
 fixando
 flacido
+florear
 fluvial
 fodidas
 forints
@@ -4116,6 +4144,7 @@ gremios
 guerras
 guianas
 habitar
+hackers
 hamster
 hamster
 hapkido
@@ -4123,6 +4152,7 @@ hashtag
 hectare
 honrara
 horario
+humilde
 ignicao
 ignorar
 iguaria
@@ -4147,8 +4177,11 @@ inglesa
 inicial
 inimiga
 inimigo
+injetar
+insidio
 instara
 instiga
+integra
 invadir
 invento
 inverso
@@ -4201,11 +4234,13 @@ lavemos
 leciona
 lecione
 lemures
+leproso
 lesbica
 levamos
 levitar
 levitei
 lexicos
+libanes
 licitos
 lidamos
 ligacao
@@ -4281,9 +4316,11 @@ minutar
 minutos
 miramos
 mirarao
+mobilia
 mocetao
 mocinha
 modinha
+mofados
 momento
 monarca
 morador
@@ -4452,6 +4489,7 @@ reconto
 recorte
 redomas
 redondo
+redundo
 reentra
 reforco
 reformo
@@ -4580,6 +4618,7 @@ tulipas
 tumulos
 turismo
 turista
+tutelas
 tweeter
 ukulele
 ultimos
@@ -5072,15 +5111,18 @@ faradays
 farinhas
 fartavel
 fatidico
+favelado
 fecundar
 fedelhos
 feijoada
+fenotipo
 fermento
 ferreiro
 ferrovia
 fervente
 festejar
 festejas
+festejos
 ficardes
 ficarias
 ficassem
@@ -5121,6 +5163,7 @@ gastrite
 gatinhos
 gelatina
 gengival
+gerundio
 gestacao
 gestante
 giestais
@@ -5203,6 +5246,7 @@ keeshond
 knockout
 know-how
 laconiza
+laicismo
 lambuzar
 lampejar
 lancemos
@@ -5297,10 +5341,12 @@ nekomimi
 neuroses
 nicotina
 nirvanas
+nitratos
 nivelado
 nogueira
 nominais
 notebook
+numerais
 numerosa
 obedecer
 objetado
@@ -5321,6 +5367,7 @@ oratoria
 ostentar
 outdoors
 overhead
+oxigenio
 pactuara
 padrinho
 palpavel
@@ -5343,9 +5390,11 @@ pendurar
 pentatlo
 pentelho
 percamos
+percurso
 perfeito
 pernoite
 perpetua
+persigno
 pertinho
 perversa
 pescarao
@@ -5449,6 +5498,7 @@ ririamos
 rispidez
 rissemos
 robotiza
+roedores
 rolarias
 roncarem
 ronronar
@@ -5599,6 +5649,7 @@ videiras
 vinhacas
 vinhamos
 virilhas
+virtuoso
 vivencia
 viviamos
 vivifica
@@ -5657,6 +5708,7 @@ alegorica
 alfaiates
 alindarao
 alisarias
+almirante
 almondega
 alpinismo
 alpinista
@@ -5747,6 +5799,7 @@ bastardos
 beberemos
 becquerel
 bem-estar
+benquerer
 berinjela
 bilateral
 binoculos
@@ -5802,6 +5855,7 @@ cirandava
 cis-trans
 cockapoos
 cocktails
+codificar
 coerentes
 cogitadas
 cogumelos
@@ -5873,6 +5927,7 @@ diminutos
 dinastias
 dinheiros
 dioptrias
+disjuntor
 distintos
 dividendo
 divulgara
@@ -5971,6 +6026,7 @@ fendestes
 fenelzina
 fermentos
 ferrugens
+fervilhar
 ficaremos
 filamento
 finalizar
@@ -6001,6 +6057,7 @@ gigawatts
 globulina
 gorjeando
 gostariam
+gostosura
 goticulas
 gozaremos
 granjeado
@@ -6022,6 +6079,7 @@ hipoteses
 historias
 historios
 holandiza
+homunculo
 hortalica
 hoteleiro
 icosaedro
@@ -6074,6 +6132,7 @@ laminasse
 lamparina
 landgrave
 levantais
+libaneses
 lidaremos
 lidavamos
 ligavamos
@@ -6086,6 +6145,7 @@ macaquice
 madrinhas
 maezinhas
 magistral
+magmatico
 magnifico
 makgeolli
 malhardes
@@ -6161,6 +6221,7 @@ ornamento
 ossifique
 outrossim
 owenismos
+oxidacoes
 padroeira
 palitaste
 panqueque
@@ -6294,6 +6355,7 @@ subclasse
 submergir
 subscrito
 suburbano
+subverter
 sulfuroso
 suspeitos
 sustareis
@@ -6323,6 +6385,7 @@ tomahawks
 tomateiro
 toneladas
 tormentos
+torneamos
 tourearem
 toyotista
 trackpads
@@ -6335,7 +6398,9 @@ trezentos
 triangulo
 trocaveis
 tucunares
+uivavamos
 ultrassom
+urbanismo
 usariamos
 vacinares
 vagabunda
@@ -6392,6 +6457,7 @@ adularamos
 ajoelhemos
 ajuizarias
 alagamento
+aldeamento
 alho-porro
 aliariamos
 alisaremos
@@ -6432,6 +6498,7 @@ apreensiva
 aprumarias
 aquinhoava
 arara-azul
+arbitrario
 arcebispos
 armamentos
 arqueardes
@@ -6467,6 +6534,7 @@ barafustes
 batalhamos
 bateriamos
 batimentos
+bebedeiras
 bebedouros
 beija-flor
 bel-prazer
@@ -6502,6 +6570,7 @@ cegassemos
 chachachas
 chimarroes
 chocolates
+cisplatina
 cobicarmos
 coelhinhos
 coitadinha
@@ -6545,9 +6614,11 @@ depressivo
 desalmadas
 desdizeres
 desemprego
+desgoverno
 desgracado
 deslavavas
 deslizadas
+desnublado
 despirocar
 despotismo
 destemidas
@@ -6638,6 +6709,7 @@ femtojoule
 fenomenais
 ferimentos
 ficariamos
+fidelidade
 finalizava
 fincaramos
 fitariamos
@@ -6684,6 +6756,7 @@ hesitareis
 hesitarmos
 hipopotamo
 hipotetica
+holocausto
 homunculos
 hornblenda
 hortifruti
@@ -6838,6 +6911,7 @@ preempcoes
 prestacoes
 primordial
 purpurinas
+putrefacao
 qualidades
 quantidade
 quantifico
@@ -6877,6 +6951,7 @@ resquicios
 retaguarda
 retrogrado
 reutilizar
+ribeirinha
 ribeirinho
 ribossomos
 riebeckita
@@ -6896,6 +6971,7 @@ semanticos
 semblantes
 seviciamos
 showrunner
+simbolismo
 sobreporao
 socassemos
 srilanques
@@ -7057,6 +7133,7 @@ batizavamos
 beberriquem
 beijoqueira
 belzebutica
+beneplacito
 benfeitores
 bipartistes
 bolchevique
@@ -7166,6 +7243,7 @@ escavadoras
 esconderijo
 escorraceis
 escritorios
+esfumavamos
 esfuziareis
 esmolaramos
 espacamento
@@ -7530,6 +7608,7 @@ conjuraremos
 constituicao
 coracaozinho
 coreografias
+corporificar
 corroboremos
 datilografia
 decomposicao
@@ -7676,7 +7755,9 @@ ondulatorias
 ornitorrinco
 panifiquemos
 parcelarieis
+parcialidade
 parcialmente
+pavimentacao
 pega-rabudas
 pensionistas
 perambularao
@@ -7834,6 +7915,7 @@ desencadeadas
 desengoncados
 desgarrarieis
 desintegremos
+desumanizados
 dialogariamos
 difeomorfismo
 dismorfofobas
@@ -7941,6 +8023,7 @@ reabilitasses
 recrutassemos
 reencarnarmos
 reestudavamos
+reorganizados
 replantaramos
 resenhariamos
 resistiriamos
@@ -8281,6 +8364,7 @@ social-democrata
 subdesenvolvemos
 vermelho-purpura
 verossimilhancas
+videoconferencia
 abrasileirariamos
 anti-hemorroidais
 barlaventeassemos
