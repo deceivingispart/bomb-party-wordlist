@@ -69,6 +69,8 @@ vi
 xa
 xo
 ze
+ih
+eh
 aal
 aba
 aca
@@ -1515,6 +1517,7 @@ caju
 aguo
 link
 unja
+paes
 abade
 abana
 abona
@@ -3626,6 +3629,18 @@ audaz
 zorro
 bebop
 acnes
+sirza
+sushi
+serze
+amiba
+unjas
+sirzo
+zurza
+ritma
+iglus
+gaita
+caiba
+leoas
 'nduja
 abafai
 abaixa
@@ -5782,6 +5797,10 @@ tijela
 piquia
 subpor
 zoemos
+aftosa
+zorras
+arpoou
+proeza
 'ndujas
 ab-rogo
 abaliza
@@ -8025,6 +8044,10 @@ doudice
 saaraui
 fuxicar
 chuvoso
+zepelim
+mexieis
+selfies
+nenhuns
 a-be-ces
 aardvark
 ab-rogar
@@ -10123,6 +10146,10 @@ omnivora
 manequim
 ressurjo
 bimestre
+quartzos
+sexologa
+palpebra
+atletico
 aardvarks
 ab-rogais
 ab-rogues
@@ -11902,6 +11929,8 @@ paraibana
 tatuzinho
 bivalente
 elipsoide
+cacheemos
+coaptidao
 ab-rogacao
 ab-rogados
 ab-rogamos
@@ -13415,6 +13444,7 @@ monazitico
 magiquemos
 semaforico
 dodecagono
+israelense
 a-historica
 ab-rogareis
 ab-rogarias
@@ -14632,6 +14662,7 @@ indenizamos
 oligopolios
 atmosferico
 omnisciente
+fraudulenta
 ab-rogaremos
 abencoaramos
 abrenunciara
@@ -15490,6 +15521,7 @@ zingiberenos
 desapercebeu
 clorzoxazona
 champanhizar
+malthusianas
 ab-rogassemos
 abelha-mestra
 acolchoavamos
@@ -16400,6 +16432,7 @@ desbobinaremos
 valetudinarios
 indenizatorias
 desabonariamos
+shakespeariana
 academicizardes
 achincalharamos
 acromatizarieis
