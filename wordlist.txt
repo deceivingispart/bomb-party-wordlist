@@ -379,6 +379,8 @@ bah
 ski
 doo
 upe
+cru
+puf
 aals
 abra
 abre
@@ -1522,6 +1524,8 @@ paes
 cise
 jeje
 mire
+ergs
+doeu
 abade
 abana
 abona
@@ -3650,6 +3654,9 @@ lobas
 mogno
 aptos
 cavas
+fiuza
+abjad
+naxis
 'nduja
 abafai
 abaixa
@@ -5816,6 +5823,8 @@ breque
 calcas
 ojibua
 prazos
+dunker
+xucros
 'ndujas
 ab-rogo
 abaliza
@@ -8077,6 +8086,11 @@ bexigas
 sujados
 viaveis
 ralaste
+tapuios
+quakers
+kitnets
+xucurus
+haxixes
 a-be-ces
 aardvark
 ab-rogar
@@ -10181,6 +10195,21 @@ palpebra
 atletico
 inflados
 lituanos
+bronzeou
+ohioanos
+defeques
+vacuolos
+beatniks
+fijianos
+comtismo
+malgaxes
+ringgits
+baixezas
+mauaense
+catalaes
+hexaedro
+capelaes
+subnasal
 aardvarks
 ab-rogais
 ab-rogues
@@ -11967,6 +11996,8 @@ reexamina
 namoricos
 completas
 piissimas
+encafueis
+firmwares
 ab-rogacao
 ab-rogados
 ab-rogamos
@@ -13485,6 +13516,10 @@ pentagonos
 engracadas
 decairemos
 tuvaluanos
+exaustivas
+sobressaem
+dismnesias
+quilobytes
 a-historica
 ab-rogareis
 ab-rogarias
@@ -14707,6 +14742,12 @@ melindrosos
 arquearamos
 trocadilhos
 abatedouros
+vaporizador
+paleolitico
+schwannomas
+copywriters
+pramipexois
+hornblendas
 ab-rogaremos
 abencoaramos
 abrenunciara
@@ -15569,6 +15610,8 @@ malthusianas
 penetraremos
 desgostarias
 atmosfericos
+neokantianas
+dexrazoxanos
 ab-rogassemos
 abelha-mestra
 acolchoavamos
@@ -16106,6 +16149,7 @@ filadelfianos
 laringologico
 indenizatoria
 civilizatoria
+opcionalmente
 abrasileiremos
 abrilhantarmos
 acariciariamos
@@ -16481,6 +16525,7 @@ indenizatorias
 desabonariamos
 shakespeariana
 infravermelhos
+leuprorrelinas
 academicizardes
 achincalharamos
 acromatizarieis
@@ -16734,6 +16779,7 @@ lumpemburguesia
 ziguezaguearmos
 pembrolizumabes
 tangenciassemos
+bioequivalentes
 abaixo-assinados
 abrasileirarieis
 abrasileiravamos
@@ -16887,6 +16933,9 @@ esquartejamentos
 desenfronhavamos
 desengordurareis
 palatalizariamos
+intraoperatorios
+dexmedetomidinas
+ciberpsicologias
 abrasileirariamos
 anti-hemorroidais
 arara-azul-grande
