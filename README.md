@@ -1,24 +1,11 @@
-# JKLM PT-BR Wordlist
+# Wordlist PT-BR
 
-Wordlist em **português brasileiro** para o **JKLM.fun**.
+Wordlist em **português brasileiro** compativeis com **JKLM.fun** e **wordbomb.io**.
 
 > Todas (ou quase todas) as palavras do arquivo principal foram  
-> **testadas diretamente in-game** e **funcionam como palavras válidas** no jogo.
+> **testadas diretamente in-game**, mas a **compatibilidade pode variar entre os jogos**.
 
----
-
-## Arquivos
-
-### `wordlist.txt`
-- Contém **apenas palavras verificadas**
-- Cada palavra foi **aceita pelo próprio jogo** em uma **partida real**
-- Pode ser utilizada com segurança no JKLM.fun
-
-### `unchecked_wordlist.txt`
-- Contém cerca de **250.000 palavras**
-- Palavras **não verificadas in-game**
-- Serve como base para testes, filtragem e futuras validações
-- Algumas entradas **podem não funcionar** no jogo
+> ⚠️ JKLM não aceita algumas palavras do Wordbomb.
 
 ---
 
